@@ -1,0 +1,15 @@
+@COMMENT-START@---------------------------------------------------------------@COMMENT-END@
+@COMMENT-START@ Project         : @PROJECT@ @COMMENT-END@
+@COMMENT-START@ Module          : @APPLICATION@ @COMMENT-END@
+@COMMENT-START@ File            : @FILE_NAME@ @COMMENT-END@
+@COMMENT-START@ Version         : @VERSION_STRING@ @COMMENT-END@
+@COMMENT-START@ Created by      : @USER_FULL_NAME@ @COMMENT-END@
+@COMMENT-START@ Created on      : @CURRENT_TIME@ @COMMENT-END@
+@COMMENT-START@---------------------------------------------------------------@COMMENT-END@
+
+@DOT@
+
+@COMMENT-START@ Local variables:      @COMMENT-END@
+@COMMENT-START@ End:                  @COMMENT-END@
+@COMMENT-START@                       @COMMENT-END@
+@COMMENT-START@ @FILE_NAME@ ends here @COMMENT-END@
