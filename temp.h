@@ -5,6 +5,7 @@
  * Version         : @VERSION_STRING@
  * Author          : @USER_FULL_NAME@
  * Created On      : @CURRENT_TIME@
+ * Purpose         : 
  *===========================================================================*/
 
 #ifndef @UPPER_CASE_FILE_NAME@

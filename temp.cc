@@ -1,10 +1,10 @@
 //===========================================================================
-// Project         : @PROJECT@
-// Module          : @APPLICATION@
+// Project         : @APPLICATION@
 // File            : @FILE_NAME@
 // Version         : @VERSION_STRING@
 // Author          : @USER_FULL_NAME@
 // Created On      : @CURRENT_TIME@
+// Purpose         : 
 //===========================================================================
 
 static const char rcs_id[] = "@VERSION_STRING@";
@@ -68,11 +68,19 @@ static const char compile_id[] = "$Compile: " __FILE__ " " __DATE__ " " __TIME__
 //*********************************************************************
 //
 
+//*********************************************************************
+//
+// Functions
+//
+//*********************************************************************
+//
+
 @DOT@
 
 //
 // Local variables:
 // mode: c
+// compile-command: "c++ -o @BASEFILENAME_WITHOUT_EXT@ -Wall @FILE_NAME@"
 // End:
 //
 // @FILE_NAME@ ends here

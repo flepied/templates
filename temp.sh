@@ -1,7 +1,6 @@
 #!/bin/sh
 #---------------------------------------------------------------
-# Project         : @PROJECT@
-# Module          : @APPLICATION@
+# Project         : @APPLICATION@
 # File            : @FILE_NAME@
 # Version         : @VERSION_STRING@
 # Author          : @USER_FULL_NAME@
