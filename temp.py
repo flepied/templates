@@ -11,4 +11,15 @@ class @BASEFILENAME_WITHOUT_EXT@:
     def __init__(self):
         @DOT@
 
+if __name__ == "__main__":
+    import unittest
+    
+    class @BASEFILENAME_WITHOUT_EXT@Test(unittest.TestCase):
+    
+        def test1(self):
+            """"""
+            return self.assert_(True)
+    
+    unittest.main()
+                                        
 # @FILE_NAME@ ends here
