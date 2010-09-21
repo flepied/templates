@@ -1,7 +1,7 @@
 @COMMENT-START@---------------------------------------------------------------@COMMENT-END@
 @COMMENT-START@ Project         : @APPLICATION@ @COMMENT-END@
 @COMMENT-START@ File            : @FILE_NAME@ @COMMENT-END@
-@COMMENT-START@ Version         : @VERSION_STRING@ @COMMENT-END@
+@COMMENT-START@ # Copyright       : (C) @YEAR@ by  @COMMENT-END@
 @COMMENT-START@ Created by      : @USER_FULL_NAME@ @COMMENT-END@
 @COMMENT-START@ Created on      : @CURRENT_TIME@ @COMMENT-END@
 @COMMENT-START@---------------------------------------------------------------@COMMENT-END@
