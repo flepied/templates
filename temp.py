@@ -7,19 +7,18 @@
 # Purpose         : 
 #---------------------------------------------------------------
 
-class @BASEFILENAME_WITHOUT_EXT@:
+class @CAMELIZED_FILE_NAME@:
     def __init__(self):
         @DOT@
 
 if __name__ == "__main__":
     import unittest
     
-    class @BASEFILENAME_WITHOUT_EXT@Test(unittest.TestCase):
+    class @CAMELIZED_FILE_NAME@Test(unittest.TestCase):
     
-        def test1(self):
-            """"""
-            return self.assert_(True)
+        def test_(self):
+            return self.assert_(False)
     
     unittest.main()
-                                        
+    
 # @FILE_NAME@ ends here
