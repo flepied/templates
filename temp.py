@@ -17,8 +17,7 @@ if __name__ == "__main__":
     class @BASEFILENAME_WITHOUT_EXT@Test(unittest.TestCase):
     
         def test1(self):
-            """"""
-            return self.assert_(True)
+            return self.assert_(False)
     
     unittest.main()
                                         
